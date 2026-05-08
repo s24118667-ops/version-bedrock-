@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:chute",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "chute",
+      "minecraft:display_name": {
+        "value": "Chute"
+      }
+    }
+  }
+}

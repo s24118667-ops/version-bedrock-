@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "createb:ballast_tank_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "III",
+      "IWI",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "W": {
+        "item": "minecraft:water_bucket"
+      }
+    },
+    "result": {
+      "item": "createb:ballast_tank",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:crafting_table"
+      }
+    ]
+  }
+}

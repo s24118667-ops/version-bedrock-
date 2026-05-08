@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "createb:copper_valve_handle_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "III",
+      "ISI",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "S": {
+        "item": "createb:andesite_casing"
+      }
+    },
+    "result": {
+      "item": "createb:copper_valve_handle",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:crafting_table"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:shaft",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "shaft",
+      "minecraft:display_name": {
+        "value": "Shaft"
+      }
+    }
+  }
+}

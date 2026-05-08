@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:nixie_tube",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "nixie_tube",
+      "minecraft:display_name": {
+        "value": "Nixie Tube"
+      }
+    }
+  }
+}
