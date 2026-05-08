@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:brass_propeller",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "brass_propeller",
+      "minecraft:max_stack_size": 64
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:copper_valve_handle",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "copper_valve_handle",
+      "minecraft:display_name": {
+        "value": "Copper Valve Handle"
+      }
+    }
+  }
+}

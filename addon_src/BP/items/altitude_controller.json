@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:altitude_controller",
+      "category": "Construction"
+    },
+    "components": {
+      "minecraft:icon": "altitude_controller",
+      "minecraft:block_placer": {
+        "block": "createb:altitude_controller"
+      },
+      "minecraft:max_stack_size": 64
+    }
+  }
+}

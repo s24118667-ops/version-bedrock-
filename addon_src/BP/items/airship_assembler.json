@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:airship_assembler",
+      "category": "Construction"
+    },
+    "components": {
+      "minecraft:icon": "airship_assembler",
+      "minecraft:block_placer": {
+        "block": "createb:airship_assembler"
+      },
+      "minecraft:max_stack_size": 64
+    }
+  }
+}
