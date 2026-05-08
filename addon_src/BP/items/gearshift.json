@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:gearshift",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "gearshift",
+      "minecraft:display_name": {
+        "value": "Gearshift"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:brass_mixer",
+      "category": "Construction"
+    },
+    "components": {
+      "minecraft:icon": "brass_mixer",
+      "minecraft:block_placer": {
+        "block": "createb:brass_mixer"
+      },
+      "minecraft:max_stack_size": 64
+    }
+  }
+}

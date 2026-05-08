@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:encased_fan",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "encased_fan",
+      "minecraft:display_name": {
+        "value": "Encased Fan"
+      }
+    }
+  }
+}

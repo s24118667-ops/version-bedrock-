@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:rope_pulley",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "rope_pulley",
+      "minecraft:display_name": {
+        "value": "Rope Pulley"
+      }
+    }
+  }
+}
