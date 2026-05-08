@@ -7,4 +7,3 @@ addon_src/RP/blocks.json merge=ours
 addon_src/RP/textures/item_texture.json merge=ours
 addon_src/RP/textures/terrain_texture.json merge=ours
 addon_src/RP/texts/en_US.lang merge=ours
-createb_scaffold/** merge=ours
