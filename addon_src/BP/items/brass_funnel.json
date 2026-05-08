@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:brass_funnel",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "brass_funnel",
+      "minecraft:display_name": {
+        "value": "Brass Funnel"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:helium_cell",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "helium_cell",
+      "minecraft:max_stack_size": 64
+    }
+  }
+}
