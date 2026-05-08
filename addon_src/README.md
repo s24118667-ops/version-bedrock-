@@ -60,3 +60,36 @@ Run:
 `python scripts/build_mcaddon.py`
 Output (generated locally, not tracked in git):
 `dist/Aeronautics.mcaddon`
+
+## How to set up images (textures)
+
+Use exact file names that match item/block basenames.
+
+### 1) Put block textures here
+- Folder: `addon_src/RP/textures/blocks/`
+- Example files:
+  - `andesite_casing.png`
+  - `airship_assembler.png`
+  - `propeller_controller.png`
+
+### 2) Put item textures here
+- Folder: `addon_src/RP/textures/item/`
+- Example files:
+  - `propeller.png`
+  - `propeller_blade.png`
+  - `helium_cell.png`
+
+### 3) Keep names identical to IDs
+If your item ID is `createb:airship_assembler`, the icon/texture key must be `airship_assembler`.
+
+### 4) Atlas files already point to names
+- `RP/textures/terrain_texture.json` maps block texture names.
+- `RP/textures/item_texture.json` maps item texture names.
+You only need to add matching PNG files, do not rename keys.
+
+### 5) Quick checklist when textures do not show
+- Confirm lowercase file names only.
+- Confirm `.png` extension.
+- Confirm no spaces in file names.
+- Confirm block exists in BP before adding to `RP/blocks.json`.
+- Re-import the `.mcaddon` after changes.
