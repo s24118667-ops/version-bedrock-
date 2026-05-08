@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:wind_bearing",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "wind_bearing",
+      "minecraft:display_name": {
+        "value": "Wind Bearing"
+      }
+    }
+  }
+}

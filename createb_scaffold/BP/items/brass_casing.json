@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": { "identifier": "createb:brass_casing", "category": "Construction" },
+    "components": {
+      "minecraft:icon": "brass_casing",
+      "minecraft:block_placer": { "block": "createb:brass_casing" },
+      "minecraft:max_stack_size": 64
+    }
+  }
+}

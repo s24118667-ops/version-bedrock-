@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Create RP",
+    "description": "Fixed Create Resource Pack",
+    "uuid": "9c1b2f10-6a4d-4c3e-9b8f-12a3d5e6f7ab",
+    "version": [1,0,0],
+    "min_engine_version": [1,20,0]
+  },
+
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ac1b2f10-6a4d-4c3e-9b8f-12a3d5e6f7ac",
+      "version": [1,0,0]
+    }
+  ]
+}
