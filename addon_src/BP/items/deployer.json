@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:deployer",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "deployer",
+      "minecraft:display_name": {
+        "value": "Deployer"
+      }
+    }
+  }
+}

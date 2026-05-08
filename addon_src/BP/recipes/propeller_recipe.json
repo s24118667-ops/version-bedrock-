@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "createb:propeller_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " F ",
+      "FSF",
+      " F "
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:feather"
+      },
+      "S": {
+        "item": "createb:shaft"
+      }
+    },
+    "result": {
+      "item": "createb:propeller",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:crafting_table"
+      }
+    ]
+  }
+}

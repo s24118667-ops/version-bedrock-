@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "createb:gearshift_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " I ",
+      "ISI",
+      " I "
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "S": {
+        "item": "createb:shaft"
+      }
+    },
+    "result": {
+      "item": "createb:gearshift",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:crafting_table"
+      }
+    ]
+  }
+}

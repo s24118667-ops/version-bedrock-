@@ -1,0 +1,21 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:block": {
+    "description": {
+      "identifier": "createb:copper_valve_handle",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:map_color": "#8A8A8A",
+      "minecraft:loot": "loot_tables/blocks/copper_valve_handle.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2.0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 6.0
+      }
+    }
+  }
+}

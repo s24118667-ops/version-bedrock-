@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:elevator_pulley",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "elevator_pulley",
+      "minecraft:display_name": {
+        "value": "Elevator Pulley"
+      }
+    }
+  }
+}
