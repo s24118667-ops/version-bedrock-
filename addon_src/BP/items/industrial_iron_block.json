@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:industrial_iron_block",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "industrial_iron_block",
+      "minecraft:display_name": {
+        "value": "Industrial Iron Block"
+      }
+    }
+  }
+}

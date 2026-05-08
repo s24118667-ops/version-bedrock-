@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:block": {
+    "description": {
+      "identifier": "createb:airship_assembler",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2.5
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 6
+      },
+      "minecraft:friction": 0.6,
+      "minecraft:light_dampening": 15,
+      "minecraft:loot": "loot_tables/blocks/airship_assembler.json"
+    }
+  }
+}

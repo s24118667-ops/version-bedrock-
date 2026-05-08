@@ -1,0 +1,36 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "createb:gearbox_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "SCS",
+      "CAC",
+      "SCS"
+    ],
+    "key": {
+      "S": {
+        "item": "createb:shaft"
+      },
+      "C": {
+        "item": "minecraft:cobblestone"
+      },
+      "A": {
+        "item": "createb:andesite_casing"
+      }
+    },
+    "result": {
+      "item": "createb:gearbox",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:crafting_table"
+      }
+    ]
+  }
+}

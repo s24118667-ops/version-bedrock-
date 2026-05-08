@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "createb:compact_steam_thruster",
+      "category": "Construction"
+    },
+    "components": {
+      "minecraft:icon": "compact_steam_thruster",
+      "minecraft:block_placer": {
+        "block": "createb:compact_steam_thruster"
+      },
+      "minecraft:max_stack_size": 64
+    }
+  }
+}
